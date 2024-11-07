@@ -1,5 +1,5 @@
 # Cloud SOC & Honeynet Implementation in Azure (Live Traffic)
-![Cloud Honeynet / SOC](https://i.imgur.com/OoqjILh.jpg)
+![Cloud Honeynet / SOC](https://i.imgur.com/LDvY8kN.jpg)
 
 ## Overview
 
