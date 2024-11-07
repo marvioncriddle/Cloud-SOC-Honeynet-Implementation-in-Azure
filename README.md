@@ -1,7 +1,7 @@
 # Cloud SOC Honeynet Implementation in Azure (Live Traffic)
 ![Cloud Honeynet / SOC](https://i.imgur.com/ZWxe03e.jpg)
 
-## Introduction
+## Overview
 
 This project involves creating a small-scale honeynet within Azure, designed to attract and monitor potential cyber threats by collecting diverse log data.  These logs are funneled into a Log Analytics workspace, where Microsoft Sentinel processes them to map attack patterns, issue alerts, and log incidents.  Initially, I recorded key security metrics in an unprotected setup over a 24-hour period.  After enhancing security measures to fortify the environment, I conducted another 24-hour assessment to compare metrics pre- and post-hardening.  The findings are summarized below, highlighting metrics such as:
 
